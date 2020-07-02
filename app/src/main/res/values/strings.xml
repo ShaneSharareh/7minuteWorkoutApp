@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">7 Minute Workout App</string>
+    <string name="image">image</string>
+    <string name="str_start">START</string>
+    <string-array name="bmi_type">
+        <item>Standard</item>
+        <item>Metric</item>
+
+    </string-array>
+</resources>
